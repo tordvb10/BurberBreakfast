@@ -28,3 +28,4 @@ C:\Users\tordv\source\repos\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\Buber
 C:\Users\tordv\source\repos\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\BuberBreakfast.genruntimeconfig.cache
 C:\Users\tordv\source\repos\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\ref\BuberBreakfast.dll
 C:\Users\tordv\source\repos\BuberBreakfast\BuberBreakfast\bin\Debug\net8.0\ErrorOr.dll
+C:\Users\tordv\source\repos\BuberBreakfast\BuberBreakfast\obj\Debug\net8.0\BuberBreakfast.sourcelink.json

@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BuberBreakfast",
+    "\\BuberBreakfast.Contracts",
+    "\\BuberBreakfast\\Controllers",
+    "\\BuberBreakfast\\Models",
+    "\\BuberBreakfast\\Properties",
+    "\\BuberBreakfast\\ServiceErrors",
+    "\\Request",
+    "\\Request\\Breakfast"
+  ],
+  "SelectedNode": "\\Request\\Breakfast\\UpsertBreakfast.http",
+  "PreviewInSolutionExplorer": false
+}

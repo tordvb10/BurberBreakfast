@@ -9,3 +9,4 @@ C:\Users\tordv\source\repos\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\ne
 C:\Users\tordv\source\repos\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\refint\BuberBreakfast.Contracts.dll
 C:\Users\tordv\source\repos\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.pdb
 C:\Users\tordv\source\repos\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\ref\BuberBreakfast.Contracts.dll
+C:\Users\tordv\source\repos\BuberBreakfast\BuberBreakfast.Contracts\obj\Debug\net8.0\BuberBreakfast.Contracts.sourcelink.json
