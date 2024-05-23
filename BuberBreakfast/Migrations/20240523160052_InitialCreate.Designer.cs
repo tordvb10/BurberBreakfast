@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace BuberBreakfast.Migrations
 {
     [DbContext(typeof(YourDbContext))]
-    [Migration("20240523154856_InitialCreate")]
+    [Migration("20240523160052_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -68,6 +68,17 @@ namespace BuberBreakfast.Migrations
                             EndDateTime = new DateTime(2022, 4, 8, 11, 0, 0, 0, DateTimeKind.Unspecified),
                             LastModifiedDateTime = new DateTime(2024, 5, 23, 12, 58, 14, 418, DateTimeKind.Utc).AddTicks(4169),
                             Name = "Vegan Sunshine",
+                            Savory = "[\"Oatmeal\",\"Avocado Toast\",\"Omelette\",\"Salad\"]",
+                            StartDateTime = new DateTime(2022, 4, 8, 8, 0, 0, 0, DateTimeKind.Unspecified),
+                            Sweet = "[\"Cookie\"]"
+                        },
+                        new
+                        {
+                            Id = new Guid("84e70a61-7e9a-4e18-8819-135734ba6a11"),
+                            Description = "Vegan everything! Join us for a healthy breakfast.",
+                            EndDateTime = new DateTime(2022, 4, 8, 11, 0, 0, 0, DateTimeKind.Unspecified),
+                            LastModifiedDateTime = new DateTime(2024, 5, 23, 12, 58, 14, 418, DateTimeKind.Utc).AddTicks(4169),
+                            Name = "NEW Vegan Sunshine",
                             Savory = "[\"Oatmeal\",\"Avocado Toast\",\"Omelette\",\"Salad\"]",
                             StartDateTime = new DateTime(2022, 4, 8, 8, 0, 0, 0, DateTimeKind.Unspecified),
                             Sweet = "[\"Cookie\"]"
