@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{2C1ABF68-33BE-4037-9725-64BDED64BB20}|BuberBreakfast\\BuberBreakfast.csproj|c:\\users\\tordv\\source\\repos\\buberbreakfast\\buberbreakfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1ABF68-33BE-4037-9725-64BDED64BB20}|BuberBreakfast\\BuberBreakfast.csproj|solutionrelative:buberbreakfast\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\Request\\Breakfast\\CreateBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Request\\Breakfast\\CreateBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\Request\\Breakfast\\UpsertBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Request\\Breakfast\\UpsertBreakfast.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1ABF68-33BE-4037-9725-64BDED64BB20}|BuberBreakfast\\BuberBreakfast.csproj|c:\\users\\tordv\\source\\repos\\buberbreakfast\\buberbreakfast\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1ABF68-33BE-4037-9725-64BDED64BB20}|BuberBreakfast\\BuberBreakfast.csproj|solutionrelative:buberbreakfast\\context\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1ABF68-33BE-4037-9725-64BDED64BB20}|BuberBreakfast\\BuberBreakfast.csproj|c:\\users\\tordv\\source\\repos\\buberbreakfast\\buberbreakfast\\models\\breakfast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C1ABF68-33BE-4037-9725-64BDED64BB20}|BuberBreakfast\\BuberBreakfast.csproj|solutionrelative:buberbreakfast\\models\\breakfast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9142074-4AED-42ED-AA7D-81993006B0DD}|BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj|c:\\users\\tordv\\source\\repos\\buberbreakfast\\buberbreakfast.contracts\\buberbreakfast.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9142074-4AED-42ED-AA7D-81993006B0DD}|BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj|solutionrelative:buberbreakfast.contracts\\buberbreakfast.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C1ABF68-33BE-4037-9725-64BDED64BB20}|BuberBreakfast\\BuberBreakfast.csproj|c:\\users\\tordv\\source\\repos\\buberbreakfast\\buberbreakfast\\buberbreakfast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2C1ABF68-33BE-4037-9725-64BDED64BB20}|BuberBreakfast\\BuberBreakfast.csproj|solutionrelative:buberbreakfast\\buberbreakfast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +38,92 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\BuberBreakfast\\Context\\MyDBContext.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast\\Context\\MyDBContext.cs",
+              "ToolTip": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\BuberBreakfast\\Context\\MyDBContext.cs",
+              "RelativeToolTip": "BuberBreakfast\\Context\\MyDBContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T09:02:25.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Breakfast.cs",
+              "DocumentMoniker": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\BuberBreakfast\\Models\\Breakfast.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast\\Models\\Breakfast.cs",
+              "ToolTip": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\BuberBreakfast\\Models\\Breakfast.cs",
+              "RelativeToolTip": "BuberBreakfast\\Models\\Breakfast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:10:00.795Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\BuberBreakfast\\Program.cs",
+              "RelativeDocumentMoniker": "BuberBreakfast\\Program.cs",
+              "ToolTip": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\BuberBreakfast\\Program.cs",
+              "RelativeToolTip": "BuberBreakfast\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAkwBoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T08:01:33.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateBreakfast.http",
+              "DocumentMoniker": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\Request\\Breakfast\\CreateBreakfast.http",
+              "RelativeDocumentMoniker": "Request\\Breakfast\\CreateBreakfast.http",
+              "ToolTip": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\Request\\Breakfast\\CreateBreakfast.http",
+              "RelativeToolTip": "Request\\Breakfast\\CreateBreakfast.http",
+              "ViewState": "AQIAABEAAAAAAAAAAAAswBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-23T07:39:51.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UpsertBreakfast.http",
               "DocumentMoniker": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\Request\\Breakfast\\UpsertBreakfast.http",
               "RelativeDocumentMoniker": "Request\\Breakfast\\UpsertBreakfast.http",
               "ToolTip": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\Request\\Breakfast\\UpsertBreakfast.http",
               "RelativeToolTip": "Request\\Breakfast\\UpsertBreakfast.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAALAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-05-21T14:16:15.822Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T07:38:43.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuberBreakfast.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+              "RelativeDocumentMoniker": "BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+              "ToolTip": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+              "RelativeToolTip": "BuberBreakfast.Contracts\\BuberBreakfast.Contracts.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T07:11:26.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BuberBreakfast.csproj",
+              "DocumentMoniker": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+              "RelativeDocumentMoniker": "BuberBreakfast\\BuberBreakfast.csproj",
+              "ToolTip": "C:\\Users\\tordv\\source\\repos\\BuberBreakfast\\BuberBreakfast\\BuberBreakfast.csproj",
+              "RelativeToolTip": "BuberBreakfast\\BuberBreakfast.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-22T07:11:24.713Z"
             }
           ]
         }

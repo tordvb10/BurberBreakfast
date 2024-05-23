@@ -1,0 +1,12 @@
+[
+  {
+    "Id": "94e70a61-7e9a-4e18-8819-135734ba6a11",
+    "Name": "Vegan Sunshine",
+    "Description": "Vegan everything! Join us for a healthy breakfast.",
+    "StartDateTime": "2022-04-08T08:00:00",
+    "EndDateTime": "2022-04-08T11:00:00",
+    "LastModifiedDateTime": "2024-05-23T12:58:14.4184169Z",
+    "Savory": ["Oatmeal", "Avocado Toast", "Omelette", "Salad"],
+    "Sweet": ["Cookie"]
+  }
+]

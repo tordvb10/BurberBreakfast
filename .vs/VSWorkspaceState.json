@@ -3,6 +3,7 @@
     "",
     "\\BuberBreakfast",
     "\\BuberBreakfast.Contracts",
+    "\\BuberBreakfast\\Context",
     "\\BuberBreakfast\\Controllers",
     "\\BuberBreakfast\\Models",
     "\\BuberBreakfast\\Properties",
@@ -10,6 +11,6 @@
     "\\Request",
     "\\Request\\Breakfast"
   ],
-  "SelectedNode": "\\Request\\Breakfast\\UpsertBreakfast.http",
+  "SelectedNode": "\\BuberBreakfast\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

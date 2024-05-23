@@ -1,6 +1,8 @@
 using BuberBreakfast.Contracts.Breakfast;
 using BuberBreakfast.ServicesErrors;
 using ErrorOr;
+using System;
+using System.Collections.Generic;
 
 namespace BuberBreakfast.Models
 {
@@ -10,15 +12,17 @@ namespace BuberBreakfast.Models
         public const int MaxNameLength = 60;
         public const int MinDescriptionLength = 50;
         public const int MaxDescriptionLength = 150;
-        public Guid Id { get; }
-        public string Name { get; }
-        public string Description { get; }
-        public DateTime StartDateTime { get; }
-        public DateTime EndDateTime { get; }
-        public DateTime LastModifiedDateTime { get; }
-        public List<string> Savory { get; }
-        public List<string> Sweet { get; }
-        
+        public Guid Id { get; set; }
+        public string Name { get; set;}
+        public string Description { get; set; }
+        public DateTime StartDateTime { get; set; }
+        public DateTime EndDateTime { get; set; }
+        public DateTime LastModifiedDateTime { get; set ; }
+        public List<string> Savory { get; set; } = new List<string>(); // Initialize as empty list
+        public List<string> Sweet { get; set; } = new List<string>(); // Initialize as empty list
+
+        public Breakfast() { }
+
         private Breakfast(
             Guid id,
             string name,
@@ -35,8 +39,8 @@ namespace BuberBreakfast.Models
             StartDateTime = startDateTime;
             EndDateTime = endDateTime;
             LastModifiedDateTime = lastModifiedDateTime;
-            Savory = savory;
-            Sweet = sweet;
+            Savory.AddRange(savory); // Add the passed savory items to the list
+            Sweet.AddRange(sweet); // Add the passed sweet items to the list
         }
 
         public static ErrorOr<Breakfast> Create(

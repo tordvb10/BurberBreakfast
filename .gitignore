@@ -1,0 +1,18 @@
+# Ignore Visual Studio files
+.vs/BuberBreakfast/
+.vs/BuberBreakfast/DesignTimeBuild/
+.vs/BuberBreakfast/FileContentIndex/
+.vs/ProjectEvaluation/
+
+# Ignore Visual Studio settings and cache files
+.vs/BuberBreakfast/v17/.futdcache.v2
+.vs/BuberBreakfast/v17/.suo
+.vs/BuberBreakfast/FileContentIndex/*.vsidx
+.vs/VSWorkspaceState.json
+.vs/slnx.sqlite
+
+# Ignore user-specific files
+BuberBreakfast/BuberBreakfast.csproj.user
+
+# Ignore build and object files
+BuberBreakfast/obj/
